@@ -1,8 +1,6 @@
-## WEMPECKER
+## WEMPECKER 
 
-You can use the [editor on GitHub](https://github.com/WEMPECKER/WEMPECKER/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After two years of hibernation, the WEMPECKER is back starting summer of 2020. Watch this space for more..
 
 ### Markdown
 
