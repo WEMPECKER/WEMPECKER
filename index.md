@@ -1,4 +1,4 @@
-## WEMPECKER 
+## WEMPECKER https://github.com/WEMPECKER/WEMPECKER/blob/master/leading_wempec.svg
 
 After two years of hibernation, the WEMPECKER is back starting summer of 2020. Watch this space for more..
 
