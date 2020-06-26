@@ -1,6 +1,10 @@
 ## WEMPECKER         ![image1](https://github.com/WEMPECKER/WEMPECKER/blob/master/leading_wempec.png)
 
-After two years of hibernation, the WEMPECKER is back starting summer of 2020. Watch this space for more..
+A WEMPECKER is the coolest person on the isthmus in Madison WI. This page has no official relation to the research lab that goes by the first six letters in the WEMPECKER's name, although the members of this page claim present/past/future affiliation to it.  
+
+After two years of hibernation, the WEMPECKER is back starting summer of 2020. 
+
+Watch this space for more..
 
 While you keep waiting for us to populate the website, you can take a look at some old editions (re-printed without permission) here:
 
